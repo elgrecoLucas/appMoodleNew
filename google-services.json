@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989858962750",
+    "project_id": "aulaswebcoelgios",
+    "storage_bucket": "aulaswebcoelgios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989858962750:android:a336606ded77e1dc2ce06f",
+        "android_client_info": {
+          "package_name": "com.unlp.eadmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989858962750-b31jqmb718ooq2tc4qlos7nhfis5omtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9bb9khOPXqHS1h87OJaLSyUYSzOZBPbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989858962750-b31jqmb718ooq2tc4qlos7nhfis5omtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
